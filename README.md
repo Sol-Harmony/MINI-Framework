@@ -1,4 +1,4 @@
-# MINI, a minimal Framework for PHP
+# NOVA, a minimal Framework for PHP
 To get your database connection up and running, just drop your DB credentials into the /config/config.ini file.
 Note that Right now, the setup only supports MySQL. More database options are on the roadmap, so stay tuned!
 
